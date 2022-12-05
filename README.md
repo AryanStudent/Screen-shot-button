@@ -7,3 +7,8 @@ uuip
 IN SERVER SIDE:
 express,
 socket.io
+
+
+TO RUN:
+IN CLIENT SIDE: npm Start, 
+IN SERVER SIDE: node index.js
